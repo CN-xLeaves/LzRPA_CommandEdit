@@ -1,0 +1,11 @@
+E:\Git\LzRPA\CommandEdit\bin\Debug\CommandEdit.exe.config
+E:\Git\LzRPA\CommandEdit\bin\Debug\CommandEdit.exe
+E:\Git\LzRPA\CommandEdit\bin\Debug\CommandEdit.pdb
+E:\Git\LzRPA\CommandEdit\bin\Debug\Newtonsoft.Json.dll
+E:\Git\LzRPA\CommandEdit\bin\Debug\Newtonsoft.Json.xml
+E:\Git\LzRPA\CommandEdit\obj\Debug\CommandEdit.Form1.resources
+E:\Git\LzRPA\CommandEdit\obj\Debug\CommandEdit.Properties.Resources.resources
+E:\Git\LzRPA\CommandEdit\obj\Debug\CommandEdit.csproj.GenerateResource.Cache
+E:\Git\LzRPA\CommandEdit\obj\Debug\CommandEdit.exe
+E:\Git\LzRPA\CommandEdit\obj\Debug\CommandEdit.pdb
+E:\Git\LzRPA\CommandEdit\obj\Debug\CommandEdit.csprojResolveAssemblyReference.cache
